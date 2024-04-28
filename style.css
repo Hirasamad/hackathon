@@ -1,0 +1,52 @@
+#navbarNav{justify-content: center;
+gap: 40px;}
+.social{width: Hug (405px)px;
+    height: Hug (19px)px;
+    top: 43px;
+    left: 566px;
+    gap: 40px;
+    opacity: 0px;
+
+    
+    }
+    .robot{
+        border: solid;
+        width: 555px;
+height: 122px;
+top: 272px;
+left: 149px;
+gap: 0px;
+opacity: 0px;
+margin-left: 100px;
+margin-top: 200px;
+
+    }
+    .million{
+        width: 555px;
+        height: 50px;
+        top: 200px;
+        left: 149px;
+        gap: 0px;
+        opacity: 0px;
+        margin-left: 100px;
+        margin-top: 200px;
+line-height: 28px;
+text-align: center;
+
+    }
+    .r1{border: solid;
+    margin-left: 50%;
+display: flex;}
+.b2{
+    width: 555px;
+    height: 50px;
+    top: 200px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 200px;
+justify-content: center;
+
+}
+.se{
+    margin-top: 20px;
+}
